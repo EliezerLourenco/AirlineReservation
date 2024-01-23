@@ -22,7 +22,7 @@ To compile the project, navigate to the `src` directory and run:
 
 ```bash
 javac AirlineReservation.java AirlineReservationTestHarness.java
-
+```
 To run the test harness, use: java AirlineReservationTestHarness
 
 Contributing
